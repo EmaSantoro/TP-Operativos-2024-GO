@@ -8,7 +8,11 @@ https://github.com/sisoputnfrba/foro/issues?q=is%3Aissue+
 
 ## Integrantes
 Arce Milagros
+
 Di Santo Ramiro
+
 Salafia Milagros 
+
 Santoro Emanuel
+
 Schkurko Nicolas
